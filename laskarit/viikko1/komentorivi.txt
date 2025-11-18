@@ -1,0 +1,14 @@
+├── GitHub
+│   ├── README.txt
+│   └── laskarit
+│       └── viikko1
+└── Harjoitus
+    ├── Talteen.txt
+    ├── eka.txt
+    ├── kolmas.txt
+    ├── stuff
+    │   └── tavaraa.txt
+    └── tiedostoja
+        ├── file22
+        └── file3
+

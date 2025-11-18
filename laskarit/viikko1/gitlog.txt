@@ -1,0 +1,45 @@
+commit d09b1438b84e06dcbc51d120dc92213f9249bd69
+Author: MVL <mipevuor@gmail.com>
+Date:   Fri Nov 14 15:41:30 2025 +0200
+
+    lisättiin Tiedostoja-kansioa ja sen alatiedostit
+
+ tiedostoja/file1 | 0
+ tiedostoja/file2 | 0
+ tiedostoja/file3 | 0
+ 3 files changed, 0 insertions(+), 0 deletions(-)
+
+commit decbd94e9c1acbc244f9ae6a4ffb9b911b05e5e1
+Author: MVL <mipevuor@gmail.com>
+Date:   Fri Nov 14 15:31:12 2025 +0200
+
+    Muokattiin ekaa ja kolmatta
+
+ eka.txt    | 5 ++++-
+ kolmas.txt | 2 ++
+ 2 files changed, 6 insertions(+), 1 deletion(-)
+
+commit 6d19b8174ed92ed9206760350fa142915df1dc54
+Author: MVL <mipevuor@gmail.com>
+Date:   Fri Nov 14 15:26:39 2025 +0200
+
+    Nimen  muutos
+
+ tiedosto.txt => eka.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit c63790409481621bb39669da8de4c17d7264f695
+Author: MVL <mipevuor@gmail.com>
+Date:   Fri Nov 14 15:24:40 2025 +0200
+
+    Toisen poisto
+
+ toinen.txt | 1 -
+ 1 file changed, 1 deletion(-)
+
+commit 77a87d53a8715671b27ba391d2c6a8e28dab0b99
+Author: MVL <mipevuor@gmail.com>
+Date:   Fri Nov 14 15:15:46 2025 +0200
+
+    tiedoston muokkaus
+
