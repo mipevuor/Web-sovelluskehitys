@@ -1,1 +1,1 @@
-Teadme tiedosto
+Readme tiedosto
