@@ -13,4 +13,4 @@ Tekstiä readme-tiedostoon
 ##Linkit
 - [Gitlog](https://github.com/mipevuor/Web-sovelluskehitys/blob/main/laskarit/viikko1/gitlog.txt)
 - [Komentorivi](https://github.com/mipevuor/Web-sovelluskehitys/blob/main/laskarit/viikko1/komentorivi.txt)
-- [Komentorivi2]([url](https://github.com/mipevuor/Web-sovelluskehitys/blob/main/laskarit/viikko1/komentorivi.txt))
+- [Komentorivi2](https://github.com/mipevuor/Web-sovelluskehitys/blob/main/laskarit/viikko1/komentorivi.txt))
